@@ -1,10 +1,10 @@
 QBWeed = {}
-QBWeed.HarvestTime = 40 * 1000
+QBWeed.HarvestTime = 20 * 1000
 
 QBWeed.Plants = {
-    ["og-kush"] = {
-        ["label"] = "OGKush 2g",
-        ["item"] = "weed_og-kush",
+    ["zero-haze"] = {
+        ["label"] = "Zero Haze",
+        ["item"] = "weed_zero-haze",
         ["stages"] = {
             ["stage-a"] = "bkr_prop_weed_01_small_01c",
             ["stage-b"] = "bkr_prop_weed_01_small_01b",

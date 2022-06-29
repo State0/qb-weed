@@ -116,8 +116,8 @@ QBCore.Functions.CreateUseableItem("weed_purple-haze_seed", function(source, ite
     TriggerClientEvent('qb-weed:client:placePlant', source, 'purple-haze', item)
 end)
 
-QBCore.Functions.CreateUseableItem("weed_og-kush_seed", function(source, item)
-    TriggerClientEvent('qb-weed:client:placePlant', source, 'og-kush', item)
+QBCore.Functions.CreateUseableItem("weed_zero-haze_seed", function(source, item)
+    TriggerClientEvent('qb-weed:client:placePlant', source, 'zero-haze', item)
 end)
 
 QBCore.Functions.CreateUseableItem("weed_amnesia_seed", function(source, item)
